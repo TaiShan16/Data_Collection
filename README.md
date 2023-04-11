@@ -11,3 +11,5 @@ We will create a Beautiful Soup object and use it to extract text elements from 
 ##### Part 2: Scrape and analyze Mars weather data, which exists in a table.
 In this part, We will use automated browsing to visit the Mars Temperature Data site: https://static.bc-edx.com/data/web/mars_facts/temperature.html.
 We will create a Beautiful Soup object and use it to scrape the data in the HTML table. We will assemble the scraped data into a Pandas DataFrame and analyze the dataset by using Pandas functions and plot the results as a bar chart.
+
+![alt text](https://github.com/TaiShan16/Data_Collection/blob/main/Terrestrial.png)
